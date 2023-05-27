@@ -6,4 +6,7 @@
     - Shortest Job first preemptive
     - round robin
     
+   
+![Number of processes](https://github.com/ahmed812003/Process-Scheduling/blob/main/number%20of%20processes.jpg)
+    
     
